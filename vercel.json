@@ -3,7 +3,7 @@
   "redirects": [
     {
       "source": "/",
-      "destination": "https://flyingnow.online/service/",
+      "destination": "https://flyingnow.online/helps/",
       "permanent": false
     }
   ]
